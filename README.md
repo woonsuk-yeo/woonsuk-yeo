@@ -10,10 +10,10 @@
 
 ### About
 
-- 🎓 Graduate researcher at **Computational Catalysis and Emerging materials Laboratory (CCEL)**, Seoul National University
+- 🎓 Ph.D. student at **Computational Catalysis and Emerging materials Laboratory (CCEL)**, Seoul National University
 - 🧪 B.S. & M.S. in Chemical Engineering → now in Materials Science and Engineering
 - 🔬 Research: **computational catalyst design for environmental catalysis** — DFT (VASP), descriptor-based screening, reaction mechanism analysis (NEB, Bader, COHP)
-- ⚡ **Matlantis (PFP) machine-learning potential** in production use: realistic doped-slab models at experimental compositions, large-configuration sampling beyond DFT cell-size limits, with DFT cross-validation
+- ⚡ **Machine-learning interatomic potentials (MLIP)** in production use — universal MLIPs (**Matlantis/PFP**, **MACE**, **UMA**) for realistic doped-slab models at experimental compositions and configuration sampling beyond DFT cell-size limits, always cross-validated against DFT
 - ⚙️ I automate everything I do twice: HPC workflows, publication figures, and the research pipeline itself (with AI agents)
 
 ### Featured work
