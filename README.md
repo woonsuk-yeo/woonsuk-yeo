@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<!-- snake: workflow 승인 후 활성화 -->
+![snake](https://raw.githubusercontent.com/woonsuk-yeo/woonsuk-yeo/output/github-contribution-grid-snake-dark.svg)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=100)
 
